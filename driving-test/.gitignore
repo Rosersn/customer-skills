@@ -1,0 +1,6 @@
+progress.json
+scripts/cookies.txt
+data/images/
+.DS_Store
+__pycache__/
+*.pyc
